@@ -1,0 +1,25 @@
+[debug] [2023-03-07T15:09:30.826Z] ----------------------------------------------------------------------
+[debug] [2023-03-07T15:09:30.828Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2023-03-07T15:09:30.828Z] CLI Version:   11.24.0
+[debug] [2023-03-07T15:09:30.828Z] Platform:      darwin
+[debug] [2023-03-07T15:09:30.828Z] Node Version:  v19.0.1
+[debug] [2023-03-07T15:09:30.828Z] Time:          Tue Mar 07 2023 17:09:30 GMT+0200 (Eastern European Standard Time)
+[debug] [2023-03-07T15:09:30.828Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-03-07T15:09:30.861Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-03-07T15:09:30.862Z] > authorizing via signed-in user (polina.lipse@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/po/Desktop/netflix-clone-react
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
